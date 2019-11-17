@@ -1,0 +1,851 @@
+
+<!DOCTYPE html>
+<html lang="fr-FR" prefix="og: http://ogp.me/ns#">
+
+<head>
+    <title>Senior iOS/Android Developer | Hannes</title>
+    <meta charset="UTF-8"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+    <meta name="description" content="Specialized in Chat & Video Call, Video streaming, Photo & Video Editing and Sharing & Payment gateways & AR & VR & Backend & RoR development"/>
+    <meta property="og:locale" content="_EN"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="Senior iOS/RoR Developer | Hannes Oud"/>
+    <meta property="og:description" content="Specialized in Chat & Video Call, Video streaming, Photo & Video Editing and Sharing & Payment gateways & AR & VR & Backend & RoR development"/>
+    <meta property="og:url" content="http://www.hannesprofile.co.nf"/>
+    <meta property="og:site_name" content="Hannes Oud"/>
+    
+    <script type='text/javascript' src='js/jquery.js'></script>
+    <script type='text/javascript' src='js/jquery.themepunch.plugins.min.js?rev=4.3.8'></script>
+    <script type='text/javascript' src='js/jquery.themepunch.revolution.min.js?rev=4.3.8'></script>
+    <script type='text/javascript' src='js/modernizr.custom.js'></script>
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    <!-- RSS feed -->
+    
+    <link rel='stylesheet' href='css/settings.css?rev=4.3.8' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/captions.css?rev=4.3.8' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/tmpfont.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/bootstrap.min.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/animate.min.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/icons.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/owl.carousel.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/owl.theme.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/isotope-style.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/style.css' type='text/css' media='all'/>
+    
+    <style type="text/css">
+        h1, h2, h3, h4, h5, h6, .section-heading .description, #container-thumbs .items .category {font-family: "Raleway", helvetica, arial, sans-serif;}
+        #navigation ul li {font-family: "Raleway", helvetica, arial, sans-serif;}
+        body {font-size: 16px; font-family: "Raleway", helvetica, arial, sans-serif;}
+        .home-section a.btn1:hover, .home-section a.btn2, #options ul li:hover a, #options ul li a.selected, .link-btn.white-btn a:hover, .link-btn-2.white-btn a:hover, .link-btn a, .link-btn a:hover, .link-btn-2 a, .link-btn-2 a:hover {border-color: #549bbf !important;}
+        #preloader, .home-section a.btn1:hover, .home-section a.btn2, .navbar-inverse, .education-timeline .education:hover .divider, .process-wrapper .items:hover, #options ul li:hover a, #options ul li a.selected, .social-icons ul li, .link-btn.white-btn a:hover, .link-btn-2.white-btn a:hover, .link-btn a, .link-btn-2 a, .scrollup, .owl-theme .owl-controls .owl-page span, .contact-section .contact-form .form #submitf:hover, .contact-section, .contact-section .section-heading h1.icon-line i {background-color: #549bbf !important;}
+        .work-experience-timeline .col-left:hover .arrow {border-color: transparent #549bbf transparent transparent;}
+        .work-experience-timeline .col-right:hover .arrow {border-color: transparent transparent transparent #549bbf;}
+        .overlayzoom span.zoom {background: rgba(84, 155, 191); background: rgba(84, 155, 191, 0.7);}
+        .colored-text, .section-heading .heading, .education-timeline .programe, .education-timeline .education:hover .duration, .work-experience-timeline .company-name, .work-experience-timeline .url a, .work-experience-timeline .col-right:hover .duration, .work-experience-timeline .col-left:hover .duration, .services-carousel .items:hover .icon, .awards-carousel .items:hover .icon, .testimonials-carousel .items .emp-name, #footer .desc i, .link-btn a:hover, .link-btn-2 a:hover, .contact-section .contact-form .form #submitf, .portfolio-detail .heading, .links a {color: #549bbf;}
+        .tp-caption a {color: #ff7302; text-shadow: none; -webkit-transition: all 0.2s ease-out; -moz-transition: all 0.2s ease-out; -o-transition: all 0.2s ease-out; -ms-transition: all 0.2s ease-out;}
+        .tp-caption a:hover {color: #ffa902;}
+        .recentcomments a {display: inline !important; padding: 0 !important; margin: 0 !important;}
+    </style>
+</head>
+
+<body class="home page page-id-1691 page-template page-template-tpl-frontpage-php animation-enabled">
+    <div id="preloader">
+        <div class="preloader">
+            <div class="cube1"></div>
+            <div class="cube2"></div>
+        </div>
+    </div>
+	
+    <section id="home" class="home-section slideshow-container content-section">
+        <div id="rev_slider_2_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:#E9E9E9;padding:0px;margin-top:0px;margin-bottom:0px;max-height:600px;">
+            <div id="rev_slider_2_1" class="rev_slider fullwidthabanner" style="display:none;max-height:600px;height:600px;">
+                <ul>
+                    <li data-transition="fade" data-slotamount="1" data-masterspeed="700" data-delay="5000">
+                        <img src="images/clientscopy.jpg" alt="clientscopy" data-bgposition="left bottom" data-kenburns="on" data-duration="2000" data-ease="Power4.easeInOut" data-bgfit="100" data-bgfitend="100" data-bgpositionend="center center">
+											
+                        <div class="tp-caption very_large_text customin customout tp-resizeme" data-x="180" data-y="20" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="600" data-start="1000" data-easing="Back.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" data-endeasing="Power1.easeIn" style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Sasha
+                        </div>
+
+                        <div class="tp-caption very_large_text customin customout tp-resizeme" data-x="610" data-y="20" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="600" data-start="1500" data-easing="Back.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" data-endeasing="Power1.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">Ustenko</div>
+						
+                        <div class="tp-caption medium_text sft customout tp-resizeme" data-x="center" data-hoffset="6" data-y="160" data-voffset="-139" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="600" data-start="2000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" data-endeasing="Power1.easeIn" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Senior iOS / Android developer</div>
+
+                        <div class="tp-caption large_text skewfromright customout tp-resizeme" data-x="-20" data-hoffset="-2" data-y="310" data-voffset="-139" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="600" data-start="3000" data-easing="Back.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" data-endeasing="Power4.easeOut" style="z-index: 6; max-width: auto; max-height: auto; white-space: nowrap;">
+                            <p class="border">8 YEARS OF PROGRAMMING EXPERIENCE</p>
+                        </div>
+
+                        <div class="tp-caption slider-buttons skewfromrightshort customout tp-resizeme" data-x="295" data-y="490" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="600" data-start="3500" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="500" style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;"><a href="images/cv.pdf" class="btn2" target="_blank" title="Télécharger mon CV au format PDF"><i class="fa fa-download"></i>MY RESUME</a></div>
+
+                        <div class="tp-caption slider-buttons skewfromrightshort customout tp-resizeme" data-x="635" data-y="490" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="600" data-start="4000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="500" style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;"><a href="#about-me" class="btn1" title "En savoir plus"><i class="fa fa-briefcase"></i> ABOUT</a></div>
+                    </li>
+                    
+                    <li data-transition="fade" data-slotamount="1" data-masterspeed="700" data-delay="5000">
+                        <img src="images/clientscopy.jpg" alt="clientscopy" data-bgposition="left bottom" data-kenburns="on" 
+						data-duration="2000" data-ease="Power4.easeInOut" data-bgfit="100" data-bgfitend="100" data-bgpositionend="center center">
+
+                        <div class="tp-caption very_large_text customin customout tp-resizeme" data-x="180" data-y="20" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="600" data-start="1000" data-easing="Back.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" data-endeasing="Power1.easeIn" style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Hannes</div>
+
+                        <div class="tp-caption very_large_text customin customout tp-resizeme" data-x="710" data-y="20" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="600" data-start="1500" data-easing="Back.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" data-endeasing="Power1.easeIn" style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">Oud</div>
+						
+                        <div class="tp-caption medium_text sft customout tp-resizeme" data-x="center" data-hoffset="6" data-y="160" data-voffset="-139" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="600" data-start="2000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" data-endeasing="Power1.easeIn" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Senior iOS / RoR developer</div>
+
+                        <div class="tp-caption large_text skewfromright customout tp-resizeme" data-x="10" data-hoffset="-2" data-y="310" data-voffset="-139" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="600" data-start="3000" data-easing="Back.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300" data-endeasing="Power4.easeOut" style="z-index: 6; max-width: auto; max-height: auto; white-space: nowrap;">
+                            <p class="border">10 YEARS OF PROGRAMMING EXPERIENCE</p>
+                        </div>
+
+                        <div class="tp-caption slider-buttons skewfromrightshort customout tp-resizeme" data-x="295" data-y="490" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="600" data-start="3500" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="500" style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;"><a href="images/cv.pdf" class="btn2" target="_blank" title="Télécharger mon CV au format PDF"><i class="fa fa-download"></i>MY RESUME</a></div>
+
+                        <div class="tp-caption slider-buttons skewfromrightshort customout tp-resizeme" data-x="635" data-y="490" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="600" data-start="4000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="500" style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;"><a href="#about-me" class="btn1" title "En savoir plus"><i class="fa fa-briefcase"></i> ABOUT</a></div>
+                    </li>
+                </ul>
+                <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var tpj = jQuery;
+            tpj.noConflict();
+            var revapi2;
+
+            tpj(document).ready(function() {
+
+                if (tpj('#rev_slider_2_1').revolution == undefined)
+                    revslider_showDoubleJqueryError('#rev_slider_2_1');
+                else
+                    revapi2 = tpj('#rev_slider_2_1').show().revolution({
+                        dottedOverlay: "twoxtwo",
+                        delay: 9000,
+                        startwidth: 1170,
+                        startheight: 600,
+                        hideThumbs: 200,
+
+                        thumbWidth: 100,
+                        thumbHeight: 50,
+                        thumbAmount: 1,
+
+                        navigationType: "none",
+                        navigationArrows: "none",
+                        navigationStyle: "round",
+
+                        touchenabled: "on",
+                        onHoverStop: "on",
+
+                        swipe_velocity: 0.7,
+                        swipe_min_touches: 1,
+                        swipe_max_touches: 1,
+                        drag_block_vertical: false,
+
+                        keyboardNavigation: "off",
+
+                        navigationHAlign: "center",
+                        navigationVAlign: "bottom",
+                        navigationHOffset: 0,
+                        navigationVOffset: 20,
+
+                        soloArrowLeftHalign: "left",
+                        soloArrowLeftValign: "center",
+                        soloArrowLeftHOffset: 20,
+                        soloArrowLeftVOffset: 0,
+
+                        soloArrowRightHalign: "right",
+                        soloArrowRightValign: "center",
+                        soloArrowRightHOffset: 20,
+                        soloArrowRightVOffset: 0,
+
+                        shadow: 0,
+                        fullWidth: "on",
+                        fullScreen: "off",
+
+                        spinner: "spinner0",
+
+                        stopLoop: "on",
+                        stopAfterLoops: 0,
+                        stopAtSlide: 1,
+
+
+                        shuffle: "off",
+
+                        autoHeight: "off",
+                        forceFullWidth: "off",
+
+
+                        hideTimerBar: "on",
+                        hideThumbsOnMobile: "off",
+                        hideNavDelayOnMobile: 1500,
+                        hideBulletsOnMobile: "off",
+                        hideArrowsOnMobile: "off",
+                        hideThumbsUnderResolution: 0,
+
+                        hideSliderAtLimit: 0,
+                        hideCaptionAtLimit: 0,
+                        hideAllCaptionAtLilmit: 0,
+                        startWithSlide: 0,
+                        //videoJsPath: "plugins/revslider/rs-plugin/videojs/",
+						videoJsPath: "http://www.dogoonsenart.com/wp-content/plugins/revslider/rs-plugin/videojs/video.js",
+                        fullScreenOffsetContainer: ""
+                    });
+            });
+        </script>
+    </section>
+    <!--./home-section -->
+    
+	<section id="navigation">
+        <div class="navbar navbar-inverse" role="navigation" style="margin-bottom: 0px;">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                </div>
+                <div class="collapse navbar-collapse">
+                    <ul id="nav" class="nav navbar-nav pull-right">
+                        <li id="menu-item-1993" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="HOME" href="#home">HOME</a>
+                        </li>
+                        <li id="menu-item-1809" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="ABOUT" href="#about-me">ABOUT</a>
+                        </li>
+                        <li id="menu-item-1808" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="SKILLS" href="#my-skills">SKILLS</a>
+                        </li>
+                        <li id="menu-item-1819" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="PORTFOLIO" href="#portfolio">PORTFOLIO</a>
+                        </li>
+                        <li id="menu-item-1902" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="SERVICES" href="#services">SERVICES</a>
+                        </li>
+                        <li id="menu-item-1834" class="menu-item menu-item-type-post_type menu-item-object-page hidden"><a title="PROCESS" href="#process">MY PROCESS</a>
+                        </li>
+                        <li id="menu-item-1805" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="EXPERIENCE" href="#work-experience">EXPERIENCES</a>
+                        </li>
+                        <li id="menu-item-1807" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="EDUCATION" href="#education">EDUCATION</a>
+                        </li>
+                        <li id="menu-item-1903" class="menu-item menu-item-type-post_type menu-item-object-page hidden"><a title="DOWNLOAD" href="#download">DOWNLOAD</a>
+                        </li>
+                        <li id="menu-item-1830" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="CONTACT" href="#contact">CONTACT</a>
+                        </li>
+                        <li id="menu-item-1800" class="menu-item menu-item-type-post_type menu-item-object-page hidden"><a title="CONTACT" href="#get-in-touch">MY WORK</a>
+                        </li>
+                    </ul>
+                </div>
+                <!--/.nav-collapse -->
+            </div>
+        </div>
+    </section>
+	
+    <section id="about-me" class="about-section content-section" style="padding-bottom: 80px;padding-top: 100px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 section-heading">
+                    <h1 class="heading animated" data-animation="fadeInUp" data-animation-delay="200">ABOUT</h1>
+                    <h1 class="icon-line animated" data-animation="fadeInUp" data-animation-delay="500"><i class="fa fa-briefcase"></i></h1>
+
+                    <div class="description animated" data-animation="fadeIn" data-animation-delay="800">
+                        Start program development since 2006, have been software developer, senior developer and lead developer.
+                        <br/><br/>
+                        I've been a software developer for about 8 years and gained deep experience in IT project services.
+                        <br/><br/>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-md-3 col-md-offset-1 personal-info col-left animated" data-animation="fadeInRight" data-animation-delay="1100">
+                    <div class="line1">FIRST NAME / FAMILY NAME
+                        <br><span class="line2">Sasha Ustenko</span>
+                    </div>
+                    <div class="line1">CITY
+                        <br><span class="line2">Kyiv</span>
+                    </div>
+                    <div class="line1">STATUS
+                        <br><span class="line2">iOS / Android Developer</span>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 images-holder">
+                    <div class="animated" data-animation="fadeInUp" data-animation-delay="1400">
+                        <div class="pic owl-carousel my-pic-carousel">
+                            <div class="about-pic">
+                                <img class="img-responsive" alt="" src="images/photo.png" style="width: 226px; height: 226px;"/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--./images-holder -->
+                <div class="col-md-3 personal-info col-right animated" data-animation="fadeInLeft" data-animation-delay="1100">
+                    <div class="line1">AVAILABILITY
+                        <br><span class="line2"><a href="#contact">CONTACT</a></span>
+                    </div>
+                    <div class="line1">SKYPE
+                        <br><span class="line2">fullstack.developer</span>
+                    </div>
+                    <div class="line1">EMAIL
+                        <br><span class="line2"><a href="mailto:hannesoud@outlook.com">sasha.u@yahoo.com</a></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 animated" data-animation="fadeInUp" data-animation-delay="1700">
+                    <div class="intro">
+                        <div class="link-btn accent">
+                            <a target="" href="#my-skills" class="accent-button"><i class="fa fa-rocket"></i>MY SKILLS</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="my-skills" data-speed="10" data-type="background" class="dark content-section" style="background-color: #1e1e1e;background-position: center top;padding-bottom: 40px;padding-top: 100px; margin-top: 50px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 section-heading">
+                    <h1 class="heading animated" data-animation="fadeInUp" data-animation-delay="200">SKILLS</h1>
+                    <h1 class="icon-line animated" data-animation="fadeInUp" data-animation-delay="500"><i class="fa fa-rocket"></i></h1>
+                    <div class="description animated" data-animation="fadeIn" data-animation-delay="800">Make the most of my skills to ensure the success of your app.</div>
+                </div>
+                <!-- ./section-heading -->
+            </div>
+            <!-- ./row -->
+
+            <div class="row">
+                <div class="owl-carousel animated myskills-carousel" data-animation="fadeIn" data-animation-delay="1100">
+                    <div class="chart-item items">
+                        <div class="donutchart" data-percent="100"> </div>
+                        <br><span>Project Management</span>
+                    </div>
+                    <div class="chart-item items">
+                        <div class="donutchart" data-percent="100"> </div>
+                        <br><span>Swift 2.x ~ 3 / Objective-C</span>
+                    </div>
+					<div class="chart-item items">
+                        <div class="donutchart" data-percent="100"> </div>
+                        <br><span>Java</span>
+                    </div>
+                    <div class="chart-item items">
+                        <div class="donutchart" data-percent="95"> </div>
+                        <br><span>Cocoa Touch / Cocos2d</span>
+                    </div>
+                    <div class="chart-item items">
+                        <div class="donutchart" data-percent="90"> </div>
+                        <br><span>XAMARIN / C#</span>
+                    </div>
+                    <div class="chart-item items">
+                        <div class="donutchart" data-percent="95"> </div>
+                        <br><span>PHP / Node.js</span>
+                    </div>
+                    <div class="chart-item items">
+                        <div class="donutchart" data-percent="90"> </div>
+                        <br><span>C / C++ / Qt</span>
+                    </div>
+                    <div class="chart-item items">
+                        <div class="donutchart" data-percent="90"> </div>
+                        <br><span>XMPP / OpenTok / Quickblox</span>
+                    </div>
+                    <div class="chart-item items">
+                        <div class="donutchart" data-percent="90"> </div>
+                        <br><span>Aviary / AVFoundation</span>
+                    </div>
+                    <div class="chart-item items">
+                        <div class="donutchart" data-percent="85"> </div>
+                        <br><span>PayPal / Authorize / Stripe</span>
+                    </div>
+                    <div class="chart-item items">
+                        <div class="donutchart" data-percent="80"> </div>
+                        <br><span>Vuforia / Oculus / Cardboard</span>
+                    </div>
+                    <div class="chart-item items">
+                        <div class="donutchart" data-percent="90"> </div>
+                        <br><span>Facebook / Twiiter / Instagram</span>
+                    </div>
+                    <div class="chart-item items">
+                        <div class="donutchart" data-percent="85"> </div>
+                        <br><span>Ruby on Rails</span>
+                    </div>
+                </div>
+                
+                <div class="link-btn accent">
+                    <a target="" href="#portfolio" class="accent-button"><i class="fa fa-thumbs-up"></i> PORTFOLIO</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="section-portfolio content-section" id="portfolio" style="padding-bottom: 40px; margin-top: 50px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 section-heading">
+                    <h1 class="heading animated" data-animation="fadeInUp" data-animation-delay="200">PORTFOLIO</h1>
+                    <h1 class="icon-line animated" data-animation="fadeInUp" data-animation-delay="500"><i class="fa fa-thumbs-up"></i></h1>
+                    <div class="description animated" data-animation="fadeIn" data-animation-delay="800">
+                        I can work on both iOS and android project. 
+                        <br />Especially I'm specilized in Chatting, Photo & Video editing, Video-streaming, Social Sharing, E-commerce, Uber style.
+                        <br /><strong>Below are just few examples</strong>
+                    </div>
+                </div>
+            </div>            
+        </div>
+
+        <div class="portfolio-detail"></div>
+        <div class="example grid cs-style-2 col-md-10 col-md-offset-1" id="container-thumbs" style="margin-top: 50px;">
+            
+            <figure class="ajaxed items  site-web ">
+                <img src="images/portfolio/schedule.png" style="width:100%" alt="UpTo Calendar" />
+                <figcaption>
+                    <h3><a href="https://itunes.apple.com/us/app/upto-calendar-syncs-google/id504241451?mt=8" target="_blank">UptTo Calendar - iTunes</a></h3>
+                    <span>Event scheduling & Social sharing</span>
+                    <a class="arrow-link" href="https://itunes.apple.com/us/app/upto-calendar-syncs-google/id504241451?mt=8" target="_blank"></a>
+                </figcaption>
+            </figure>
+            
+            <figure class="ajaxed items  site-web ">
+                <img src="images/portfolio/rookiecam.jpg" style="width:100%" alt="" />
+                <figcaption>
+                    <h3><a href="https://itunes.apple.com/us/app/rookie-photo-editor/id799406905?mt=8" target="_blank">Rookie Cam – iTunes</a></h3>
+                    <span>Photo Editor & Filter Camera</span>
+                    <a class="arrow-link" href="https://itunes.apple.com/us/app/rookie-photo-editor/id799406905?mt=8" target="_blank"></a>
+                </figcaption>
+            </figure>
+            
+            <figure class="ajaxed items  site-web ">
+                <img src="images/portfolio/flyeditor.jpg" style="width:100%" alt="" />
+                <figcaption>
+                    <h3><a href="https://itunes.apple.com/us/app/fly-video-editor/id853256272?mt=8" target="_blank">Fly Video Editor - iTunes</a></h3>
+                    <span>Video Editor</span>
+                    <a class="arrow-link" href="https://itunes.apple.com/us/app/fly-video-editor/id853256272?mt=8" target="_blank"></a>
+                </figcaption>
+            </figure>
+            
+            <figure class="ajaxed items  site-web ">
+                <img src="images/portfolio/grofers.jpg" style="width:100%" alt="" />
+                <figcaption>
+                    <h3><a href="https://itunes.apple.com/us/app/grofers-grocery-shopping/id960335206?mt=8" target="_blank">Grofers - iTunes</a></h3>
+                    <span>Groccery Shopping</span>
+                    <a class="arrow-link" href="https://itunes.apple.com/us/app/grofers-grocery-shopping/id960335206?mt=8" target="_blank"></a>
+                </figcaption>
+            </figure>
+            
+            <figure class="ajaxed items  application ">
+                <img src="images/portfolio/ar_missile.jpg" style="width:100%" alt="" />
+                <figcaption>
+                    <h3><a href="https://itunes.apple.com/us/app/ar-missile-automatic-target/id402614251?mt=8" target="_blank">AR Missile - iTunes</a></h3>
+                    <span>Augmented Reality</span>
+                    <a class="arrow-link" href="https://itunes.apple.com/us/app/ar-missile-automatic-target/id402614251?mt=8" target="_blank"></a>
+                </figcaption>
+            </figure>
+            
+            <figure class="ajaxed items  site-web ">
+                <img src="images/portfolio/mumbler_chart.jpg" style="width:100%" alt="" />
+                <figcaption>
+                    <h3><a href="https://play.google.com/store/apps/details?id=com.mumblerchat.android&hl=en" target="_blank">Mumbler Chat - Google Play Store</a></h3>
+                    <span>Chat & Questionaire</span>
+                    <a class="arrow-link" href="https://play.google.com/store/apps/details?id=com.mumblerchat.android&hl=en" target="_blank"></a>
+                </figcaption>
+            </figure>
+            
+            <figure data-postid="1997" class="ajaxed items  site-web ">
+                <img src="images/portfolio/bluubeam.jpg" style="width:100%" alt="" />
+                <figcaption>
+                    <h3><a href="https://itunes.apple.com/us/app/bluubeam-ibeacon/id909168989?mt=8" target="_blank"">BluuBeam - iTunes</a></h3>
+                    <span>Information via BluuBeam</span>
+                    <a class="arrow-link" href="https://itunes.apple.com/us/app/bluubeam-ibeacon/id909168989?mt=8" target="_blank"></a>
+                </figcaption>
+            </figure>
+
+			<figure class="ajaxed items  application ">
+                <img src="images/portfolio/messaging_plus.jpg" style="width:100%" alt="" />
+                <figcaption>
+                    <h3><a href="https://itunes.apple.com/us/app/messaging-plus/id708532319?mt=8" target="_blank">Messaging Plus - iTunes</a></h3>
+                    <span>Text Chat & Video Call & Stickers & In-App-Messaging & Sharing</span>
+                    <a class="arrow-link" href="https://itunes.apple.com/us/app/messaging-plus/id708532319?mt=8" target="_blank"></a>
+                </figcaption>
+            </figure>
+            
+            <figure class="ajaxed items  site-web ">
+                <img src="images/portfolio/photoeditor.jpg" style="width:100%" alt="" />
+                <figcaption>
+                    <h3><a href="https://play.google.com/store/apps/details?id=com.axiemsystems.photoeditorminus" target="_blank">Photo Editor - Google Play Store</a></h3>
+                    <span>Photo Editor</span>
+                    <a class="arrow-link" href="https://play.google.com/store/apps/details?id=com.axiemsystems.photoeditorminus" target="_blank"></a>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="entry">
+            <div class="link-btn accent">
+                <a target="" href="#services" class="accent-button"><i class="fa fa-star"></i>SERVICES</a>
+            </div>
+            <!-- /.button -->
+        </div>
+    </section>
+    <section id="services" data-speed="10" data-type="background" class="dark content-section" style="background-color: #1e1e1e;background-position: left center;padding-bottom: 40px;padding-top: 100px; margin-top:50px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 section-heading">
+                    <h1 class="heading animated" data-animation="fadeInUp" data-animation-delay="200">SERVICES</h1>
+                    <div class="description animated" data-animation="fadeIn" data-animation-delay="800">
+                        I provide support to my clients in requirement analysis, schedule and budget estimation, team selection, app development, idea suggesting, project management, testing, marketing, as well as the optimization of their performance
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="owl-carousel animated services-carousel" data-animation="fadeInUp" data-animation-delay="1100">
+                    <div class="items">
+                        <div class="icon"><i class="fa fa-lightbulb-o"></i>
+                        </div>
+                        <div class="description"> Requirement & Idea </div>
+                    </div>
+                    <div class="items">
+                        <div class="icon"><i class="fa fa-calculator"></i>
+                        </div>
+                        <div class="description"> Estimation </div>
+                    </div>
+                    <div class="items">
+                        <div class="icon"><i class="fa fa-code"></i>
+                        </div>
+                        <div class="description"> Programming </div>
+                    </div>
+                    <div class="items">
+                        <div class="icon"><i class="fa fa-tasks"></i>
+                        </div>
+                        <div class="description"> Project Management </div>
+                    </div>
+                     <div class="items">
+                        <div class="icon"><i class="fa fa-bug"></i>
+                        </div>
+                        <div class="description"> Testing </div>
+                    </div>
+                    <div class="items">
+                        <div class="icon"><i class="fa fa-bullhorn"></i>
+                        </div>
+                        <div class="description"> Marketing </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="process" data-speed="10" data-type="background" class="dark content-section" style="background-position: left top;padding-bottom: 80px;padding-top: 100px; margin-top: 5
+    0px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 section-heading">
+                    <h1 class="heading animated" data-animation="fadeInUp" data-animation-delay="200">MY PROCESS</h1>
+                    <h1 class="icon-line animated" data-animation="fadeInUp" data-animation-delay="500"><i class="fa fa-cogs"></i></h1>
+                    <div class="description animated" data-animation="fadeIn" data-animation-delay="800">I guide my clients from requirement analysis through to and including development and implementation</div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="clearfix animated process-wrapper" data-animation="fadeInUp" data-animation-delay="1100">
+                    <div class="col-xs-6 col-sm-4 col-md-2 process-outer">
+                        <div class="items"><i class="fa fa-lightbulb-o"></i>
+                            <br>
+                            <span> IDEA </span>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-4 col-md-2 process-outer">
+                        <div class="items"><i class="fa fa-calculator"></i>
+                            <br>
+                            <span> SCHEDULE </span>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-4 col-md-2 process-outer">
+                        <div class="items"><i class="fa fa-tint"></i>
+                            <br>
+                            <span> DESIGN </span>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-4 col-md-2 process-outer">
+                        <div class="items"><i class="fa fa-code"></i>
+                            <br>
+                            <span> PROG. </span>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-4 col-md-2 process-outer">
+                        <div class="items"><i class="fa fa-bug"></i>
+                            <br>
+                            <span> TESTING </span>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-4 col-md-2 process-outer">
+                        <div class="items"><i class="fa fa-rocket"></i>
+                            <br>
+                            <span> LAUNCH </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="link-btn accent">
+                    <a target="" href="#work-experience" class="accent-button"><i class="fa fa-tags"></i>PROFESSIONAL EXPERIENCES</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="work-experience" class="content-section" style="padding-bottom: 100px;padding-top: 100px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 section-heading">
+                    <h1 class="heading animated" data-animation="fadeInUp" data-animation-delay="200">PROFESSIONAL EXPERIENCES</h1>
+                    <h1 class="icon-line animated" data-animation="fadeInUp" data-animation-delay="500"><i class="fa fa-tags"></i></h1>
+                </div>
+            </div>
+
+            <div class="row entry">
+                <div class="work-experience-timeline animated" data-animation="fadeInUp" data-animation-delay="1100">                    
+                    <div class="clearfix">
+                        <div class="col-md-6 col-xs-6">
+                            <div class="col-left">
+                                <div class="arrow"></div>
+                                <div class="company-name">Upwork</div>
+                                <div class="designation">Freelance iOS / Android Developer</div>
+                                <div class="duration">2015/06 - current</div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    
+                    <div class="clearfix">
+                        <div class="col-md-6 col-xs-6">
+                            <div class="col-left">
+                                <div class="arrow"></div>
+                                <div class="company-name">PremiumSEO</div>
+                                <div class="designation">Project Manager</div>
+                                <div class="duration">2009/01 - 2012/12</div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-6 col-xs-6">
+                            <div class="col-right">
+                                <div class="arrow"></div>
+                                <div class="company-name">ZEON</div>
+                                <div class="designation">Senior iOS / Android Developer</div>
+                                <div class="duration">2013/01 - 2015/05</div>
+                                <div class="description">
+                                    Worked on serveral online Uber style and Tinder style apps.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clearfix">
+                        <div class="col-md-6 col-xs-6">
+                            <div class="col-left">
+                                <div class="arrow"></div>
+                                <div class="company-name">Kyivstar</div>
+                                <div class="designation">Android OS Developer</div>
+                                <div class="duration">2006/01 - 2008/08</div>
+                                <div class="description">
+                                    Worked on android os system customization.
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-6 col-xs-6">
+                            <div class="col-right">
+                                <div class="arrow"></div>
+                                <div class="company-name">Kyivstar</div>
+                                <div class="designation">Senior iOS Developer</div>
+                                <div class="duration">2008/08 - 2009/01</div>
+                                <div class="description">
+                                    Worked on serveral online shopping apps and restaurant apps
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr class="timeline-end" />
+                <div class="link-btn accent">
+                    <a target="" href="#education" class="accent-button"><i class="fa fa-book"></i>EDUCATION</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="education" class="content-section" style="padding-bottom: 100px;padding-top: 100px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 section-heading">
+                    <h1 class="heading animated" data-animation="fadeInUp" data-animation-delay="200">EDUCATION</h1>
+                    <h1 class="icon-line animated" data-animation="fadeInUp" data-animation-delay="500"><i class="fa fa-book"></i></h1>
+                    <div class="description animated" data-animation="fadeIn" data-animation-delay="800">Graduated Kyiv National Linguistic University</div>
+                </div>
+            </div>
+
+            <div class="row entry">
+                <div class="education-timeline animated" data-animation="fadeInUp" data-animation-delay="1100">
+                    <div class="row education">
+                    </div>
+                </div>
+                
+                <div class="education-timeline animated" data-animation="fadeInUp" data-animation-delay="1300">
+                    <div class="row education">
+                        <div class="col-md-6 col-xs-6">
+                            <div class="divider"><i class="fa fa-book"></i>
+                            </div>
+                            <div class="col-left">
+                                <div class="programe">Bachelor of Engineering(B.Eng.)</div>
+                                <div class="university"><strong>Kyiv National Linguistic University</strong>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-xs-6">
+                            <div class="col-right">
+                                <div class="duration">2001 - 2006</div>
+                                <div class="description">Concentration: Computer engineering</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                <hr class="timeline-end" />
+                <div class="link-btn accent">
+                    <a target="" href="#contact" class="accent-button"><i class="fa fa-map-marker"></i>CONTACT</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="download" data-speed="10" data-type="background" class="dark content-section" style="background-color: #1e1e1e;background-position: left top;padding-bottom: 70px;padding-top: 40px;">
+        <div class="container">
+
+            <div class="row">
+                <div class="two_third ">
+                    <h3 class="cta">My CV is available and can be downloaded in PDF format.<br />
+						You just have to click on the button to the right
+					</h3>
+                </div>
+                <div class="one_third last">
+                    <p>
+                        <div class="link-btn-2 accent">
+                            <a target="_blank" href="images/cv.pdf" class="accent-button"><i class="fa fa-download"></i>Download</a>
+                        </div>
+                    </p>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="contact" class="contact-section content-section" style="padding-bottom: 40px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 section-heading">
+                    <h1 class="heading animated" data-animation="fadeInUp" data-animation-delay="200">CONTACT</h1>
+                    <h1 class="icon-line animated" data-animation="fadeInUp" data-animation-delay="500"><i class="fa fa-map-marker"></i></h1>
+                </div>
+            </div>
+            <div class="row entry">
+                <h1>I am currently located in Vienna, but I am able and ready to go wherever are your needs.</h1>
+                <p>&nbsp;</p>
+                <h2><a style="color: #fff;" href="mailto:hannesoud@outlook.com">sasha.u@yahoo.com</a></h2>
+				<h2><a style="color: #fff;" href="https://ua.linkedin.com/in/sasha-ustenko-4a715b125">LinkedIn</a></h2>
+                <p>&nbsp;</p>
+            </div>
+            <hr>
+            <!--<div class="contact-form">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 section-heading">
+                        <div class="heading animated" data-animation="fadeInUp" data-animation-delay="200">EMAIL CONTACT</div>
+                        <h1 class="icon-line animated" data-animation="fadeInUp" data-animation-delay="500"><i class="fa fa-envelope"></i></h1>
+                    </div>
+                </div>
+                
+                <div class="wpcf7" id="wpcf7-f4-o1" lang="en-EN" dir="ltr">
+                    <div class="screen-reader-response"></div>
+                    <div name="">
+                        <div class="row form animated" data-animation="fadeInUp" data-animation-delay="1200">
+                            <div class="col-md-6 col-md-offset-3">
+                                <div class="input-group">
+                                    <span class="input-group-addon">@</span><span class="your-name"><input type="text" name="your-name" value="" size="40" class="form-control" aria-required="true" aria-invalid="false" placeholder="First Name / Family Name*" /></span>
+                                </div>
+                                <div class="input-group">
+                                    <span class="input-group-addon">@</span><span class="your-email"><input type="text" name="your-email" value="" size="40" class="form-control" aria-required="true" aria-invalid="false" placeholder="Email*"/></span>
+                                </div>
+                                <div class="input-group"> <span class="input-group-addon">
+                                    @</span><span class="your-subject"><input type="text" name="your-subject" value="" size="40" class="form-control" aria-required="true" aria-invalid="false" placeholder="Object *" /></span>
+                                </div>
+                                <div class="input-group"> <span class="input-group-addon">
+                                    @</span><span class="comment"><textarea name="comment" cols="40" rows="4" class="form-control" aria-required="true" aria-invalid="false" placeholder="Message*"></textarea></span>
+                                </div>
+                                <div class="input-group form-buttons">
+                                    <span class="input-group-btn"><input type="button" onclick="sendMail()" value="SEND" class="btn btn-default" id="submitf" /> <br /></span>
+                                </div>
+                                </p>
+                            </div>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>-->
+        </div>
+    </section>
+    
+    <section id="get-in-touch" class="content-section" style="padding-bottom: 100px;padding-top: 100px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 section-heading">
+                    <h1 class="heading animated" data-animation="fadeInUp" data-animation-delay="200">MY WORK</h1>
+                    <h1 class="icon-line animated" data-animation="fadeInUp" data-animation-delay="500"><i class="fa fa-comments"></i></h1>
+                    <div class="description animated" data-animation="fadeIn" data-animation-delay="800">You can check my code here.</div>
+                </div>
+            </div>
+
+            <div class="row entry">
+                <div class="col-md-12 social-icons">
+                    <ul>
+                        <li><a href="https://github.com/kyivmobiledev" target="_blank"><i class="fa fa-github"></i>Github</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-lg-offset-3">                 
+                    <a href="#" class="scrollup animated" data-animation="fadeInUp" data-animation-delay="500"><i class="fa fa-angle-double-up"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <script type="text/javascript">
+        var sendMail = function() {
+            var name = document.getElementsByName('your-name')[0].value;
+            var email_adr = document.getElementsByName('your-email')[0].value;
+            var subject = document.getElementsByName('your-subject')[0].value;
+            var message = document.getElementsByName('comment')[0].value;
+            
+            jQuery.ajax({
+                url:'sendmail.php/',
+                type: 'post',
+                data: {
+                    'name': name,
+                    'email': email_adr,
+                    'subject': subject,
+                    'message': message 
+                },
+                success: function(data, status) {
+                    name = "";
+                    email_adr = "";
+                    subject = "";
+                    message = "";
+                    alert('Message successfully sent');
+                },
+                error: function(xhr, desc, err) {
+                    
+                }
+            });
+        }
+    </script>
+    
+    <script type='text/javascript' src='js/jquery.appear.js'></script>
+    <script type='text/javascript' src='js/jquery.isotope.min.js'></script>
+    <script type='text/javascript' src='js/jquery.scrollTo.js'></script>
+    <script type='text/javascript' src='js/jquery.nav.js'></script>
+    <script type='text/javascript' src='js/owl.carousel.min.js'></script>
+    <script type='text/javascript' src='js/parallax.js'></script>
+    <script type='text/javascript' src='js/jquery.sticky.js'></script>
+    <script type='text/javascript' src='js/jquery.donutchart.js'></script>
+    <script type='text/javascript' src='js/bootstrap.min.js'></script>
+    <script type='text/javascript' src='js/custom.js'></script>
+</body>
+</html>
